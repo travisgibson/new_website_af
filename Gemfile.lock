@@ -123,12 +123,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-archives-v2 (0.0.6)
-      activesupport
-      jekyll (>= 3.6, < 5.0)
     jekyll-email-protect (1.1.0)
-    jekyll-feed (0.17.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-get-json (1.0.0)
       deep_merge (~> 1.2)
       jekyll (>= 3.0)
@@ -160,7 +155,6 @@ GEM
     jekyll-toc (0.19.0)
       jekyll (>= 3.9)
       nokogiri (~> 1.12)
-    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.13.0)
@@ -277,9 +271,7 @@ DEPENDENCIES
   feedjira
   httparty
   jekyll
-  jekyll-archives-v2
   jekyll-email-protect
-  jekyll-feed
   jekyll-get-json
   jekyll-imagemagick
   jekyll-jupyter-notebook
@@ -292,7 +284,6 @@ DEPENDENCIES
   jekyll-tabs
   jekyll-terser!
   jekyll-toc
-  jekyll-twitter-plugin
   jemoji
   observer
   ostruct
