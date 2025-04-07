@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://travisgibson.github.io/about//sitemap.xml
+Sitemap: https://travisgibson.github.io/sitemap.xml
